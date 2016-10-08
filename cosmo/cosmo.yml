@@ -1,0 +1,13 @@
+name: Cosmo
+version: 1.0.1
+description: Cosmo Morfy theme
+author:
+  name: Sergey Romanenko
+  email: awilum@msn.com
+  url: http://morfy.org
+homepage: https://github.com/morfy-cms/bootswatch
+bugs: https://github.com/morfy-cms/bootswatch/issues
+license: MIT
+
+# Theme settings
+enabled: true
